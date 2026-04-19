@@ -1,0 +1,4 @@
+# ── Client dependencies ──────────────────────────────────
+websockets>=12.0
+opencv-python>=4.9.0       # with GUI support (not headless)
+numpy>=1.26.0
